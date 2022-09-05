@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gabriel Silva de Sousa
+- 👋 Welcome
 - 👀 I’m interested in Java, Java Script, HTML, CSS & MYSql
 - 🌱 I’m currently learning Java & Java Script
 - 💞️ I’m looking to collaborate on HTML & CSS
