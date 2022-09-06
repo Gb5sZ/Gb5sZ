@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, Java Script, HTML, CSS & MYSql
 - 🌱 I’m currently learning Java & Java Script
 - 💞️ I’m looking to collaborate on HTML & CSS
-- 📫 How to reach me Contatogb5@hotmail.com / +5561933000733
+- 📫 How to reach me Contatogabrieldf@outlook.com / +5561933000733
 
 ##
 
@@ -31,7 +31,7 @@
 <a href="https://steamcommunity.com/id/Gb5sZ/" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCB9AQI3pEgnDUBbIS1DlLoA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/gabrielsilvadss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatogb5@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatogabrieldf@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-silva-de-sousa-7aaa2120b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
