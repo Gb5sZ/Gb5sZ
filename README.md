@@ -1,7 +1,7 @@
 - 👋 Welcome
 - 👀 I’m interested in Java, Java Script, HTML, CSS & MYSql
 - 🌱 I’m currently learning Java & Java Script
-- 💞️ I’m looking to collaborate on HTML & CSS
+- 💞️ I’m looking to collaborate on anything i can
 - 📫 How to reach me Contatogabrieldf@outlook.com / +5561933000733
 
 ##
