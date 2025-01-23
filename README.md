@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, Java Script, PHP, HTML, CSS & MySQL
 - 🌱 I’m currently learning PHP & Java Script
 - 💞️ I’m looking to collaborate on anything i can
-- 📫 How to reach me Contatogabrieldf@outlook.com / +5561981017279
+- 📫 How to reach 
 
 ##
 
